@@ -15,7 +15,7 @@ and the ability to create flexible reports.
 ---
 
 Legend: 📦 Open Source &nbsp;&middot;&nbsp; 🆓 Free / Has Free Tier &nbsp;&middot;&nbsp; 💰 Paid / Requires Paid API
-
+  
 ## Contents
 
 - [SOCMINT](#socmint)
